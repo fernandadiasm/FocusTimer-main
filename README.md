@@ -23,7 +23,7 @@ O projeto tem como objetivo construir um temporizador web do zero utilizando a p
 <a href="https://www.figma.com/file/T53I9hcMCyeIVjrO7lbPme/Stage-05---Dark-Mode-FocusTimer-(Copy)?node-id=0%3A1" target="_blank">Figma</a>,
 para fortalecer meus conhecimentos em HTML, CSS e JavaScript aplicando diversos conceitos que aprendi.
 
-Para visualizar e utilizar o Focus Timer, <a href="https://fernandadiasm.github.io/focusTimer/" target="_blank">clique aqui</a>.
+Para visualizar e utilizar o Focus Timer, <a href="https://focus-timer-iota.vercel.app/" target="_blank">clique aqui</a>.
 
 <br/>
 
@@ -49,6 +49,7 @@ Tecnologias utilizadas para desenvolvimento do Temporizador Web:
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)
 - [JavaScript](https://www.w3schools.com/js/)
+- [Vercel](https://vercel.com/)
 
 <br/>
 
